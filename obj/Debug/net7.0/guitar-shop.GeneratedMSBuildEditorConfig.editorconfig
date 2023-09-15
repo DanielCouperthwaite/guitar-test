@@ -36,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/Stock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3RvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

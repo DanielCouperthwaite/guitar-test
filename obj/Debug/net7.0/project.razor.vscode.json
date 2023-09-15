@@ -24065,6 +24065,11 @@
       "FilePath": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/About.cshtml",
       "TargetPath": "Pages\\About.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/Stock.cshtml",
+      "TargetPath": "Pages\\Stock.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }
