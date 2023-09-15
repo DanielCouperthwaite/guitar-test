@@ -22,7 +22,7 @@
                 <h5 class="card-title">@guitar.Name</h5>
                 <h4>£@guitar.Price</h4>
                 <p class="card-text">@guitar.Description</p>
-                <a href="/Info" class="btn btn-primary">More Info</a>
+                <a asp-page="/Info" asp-route-name=@guitar.Name class="btn btn-primary">More Info</a>
             </div>
         </div>
             </div>
