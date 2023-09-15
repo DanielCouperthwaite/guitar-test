@@ -1,5 +1,5 @@
 using System;
-namespace Guitar.Models
+namespace guitar_shop.Models
 {
   public class Guitar
   {
@@ -15,10 +15,10 @@ namespace Guitar.Models
 
     public string Description { get; set; }
 
-    public Guitar(string name = "Not Found", string imgsrc = "/images/blank.png", string location = "Not Found", double price = 0.0, bool available = false, string description = "n/a")
+    public Guitar(string name = "Not Found", string imageSrc = "/images/blank.png", string location = "Not Found", double price = 0.0, bool available = false, string description = "n/a")
     {
       Name = name;
-      ImageSrc = imgsrc;
+      ImageSrc = imageSrc;
       Location = location;
       Price = price;
       Available = available;
