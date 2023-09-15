@@ -8,3 +8,15 @@
     <h1 class="display-4">Stock</h1>
     <p>Browse stock online for purchase in store!</p>
 </div>
+
+<div>
+    @foreach(var guitar in @Model.Guitars)
+    {
+        <p>@guitar.Name</p>
+        <p>@guitar.ImageSrc</p>
+        <p>@guitar.Location</p>
+        <p>£@guitar.Price</p>
+        <p>@guitar.Available</p>
+        <p>@guitar.Description</p>
+    }
+</div>
