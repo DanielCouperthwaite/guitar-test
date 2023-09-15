@@ -9,14 +9,23 @@
     <p>Browse stock online for purchase in store!</p>
 </div>
 
-<div>
+<div class="container row justify-content-center">
     @foreach(var guitar in @Model.Guitars)
     {
-        <p>@guitar.Name</p>
-        <p>@guitar.ImageSrc</p>
-        <p>@guitar.Location</p>
-        <p>£@guitar.Price</p>
-        <p>@guitar.Available</p>
-        <p>@guitar.Description</p>
+        <div class="card" style="width: 18rem;">
+            <div class="row no-gutters">
+               <div class="col-md-4">
+            <img class="card-img" src="@guitar.ImageSrc" alt="@guitar.Name">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">@guitar.Name</h5>
+                <h4>£@guitar.Price</h4>
+                <p class="card-text">@guitar.Description</p>
+                <a href="/Info" class="btn btn-primary">More Info</a>
+            </div>
+        </div>
+            </div>
+        </div>
     }
 </div>
