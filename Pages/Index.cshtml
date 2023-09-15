@@ -9,22 +9,26 @@
     <p>Your one stop shop for all guitar needs!</p>
     <div class="container">
     <div class="row">
-        <a asp-page="/Stock" class="col-md-6">
-            <div class="text-center">
-                <img class="w-25" src="https://www.homeoftone.co.uk/cdn/shop/products/IMG_2451_1024x.jpg?v=1646149793">
-            </div>
-            <div class="text-center">
-                <a class="btn btn-primary" asp-page="/Stock">Stock</a>
-            </div>
-        </a>
-        <a asp-page="/Stock" class="col-md-6">
-            <div class="text-center">
-                <img class="w-25" src="https://www.homeoftone.co.uk/cdn/shop/products/IMG_2451_1024x.jpg?v=1646149793">
-            </div>
-            <div class="text-center">
-                <a class="btn btn-primary" asp-page="/About">About</a>
-            </div>
-        </a>
+        <div class="col-md-6">
+            <a asp-page="/Stock">
+                <div class="text-center">
+                    <img class="w-25" src="https://www.homeoftone.co.uk/cdn/shop/products/IMG_2451_1024x.jpg?v=1646149793">
+                </div>
+                <div class="text-center">
+                    <a class="btn btn-primary" asp-page="/Stock">Stock</a>
+                </div>
+            </a>
+        </div>
+        <div class="col-md-6">
+            <a asp-page="/About">
+                <div class="text-center">
+                    <img class="w-25" src="https://www.homeoftone.co.uk/cdn/shop/products/IMG_2451_1024x.jpg?v=1646149793">
+                </div>
+                <div class="text-center">
+                    <a class="btn btn-primary" asp-page="/About">About</a>
+                </div>
+            </a>
+        </div>
     </div>
 </div>
 </div>
