@@ -19,10 +19,13 @@
             <div class="card-body">
                 <h4>£@Model.CurrentGuitar.Price</h4>
                 <p class="card-text">@Model.CurrentGuitar.Description</p>
-                <p>Available from @Model.CurrentGuitar.Description branch.</p>
-                <a asp-page="/Info" asp-route-name=@Model.CurrentGuitar.Name class="btn btn-primary">More Info</a>
+                <p>Available from @Model.CurrentGuitar.Location branch.</p>
             </div>
         </div>
             </div>
         </div>
+</div>
+
+<div class="container row justify-content-center">
+    <a asp-page="/Stock" class="btn btn-primary w-25">Back</a>
 </div>
