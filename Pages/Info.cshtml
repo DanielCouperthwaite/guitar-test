@@ -6,5 +6,23 @@
 
 <div class="text-center">
     <h1 class="display-4">@Model.CurrentGuitar.Name</h1>
-    <p>Browse stock online for purchase in store!</p>
+    <p>Find details Below!</p>
+</div>
+
+<div class="container row justify-content-center">
+        <div class="card" style="width: 24rem;">
+            <div class="row no-gutters">
+               <div class="col-md-4">
+            <img class="card-img" src=@Model.CurrentGuitar.ImageSrc alt=@Model.CurrentGuitar.Name>
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h4>£@Model.CurrentGuitar.Price</h4>
+                <p class="card-text">@Model.CurrentGuitar.Description</p>
+                <p>Available from @Model.CurrentGuitar.Description branch.</p>
+                <a asp-page="/Info" asp-route-name=@Model.CurrentGuitar.Name class="btn btn-primary">More Info</a>
+            </div>
+        </div>
+            </div>
+        </div>
 </div>
