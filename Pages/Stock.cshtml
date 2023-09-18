@@ -15,13 +15,13 @@
         <div class="card" style="width: 24rem;">
             <div class="row no-gutters">
                <div class="col-md-4">
-            <img class="card-img" src="@guitar.ImageSrc" alt="@guitar.Name">
+            <img class="card-img" style="height: 50px, width: 50px, object-fit: scale-down;" src="@guitar.ImageSrc" alt="@guitar.Name" />
         </div>
         <div class="col-md-8">
             <div class="card-body">
                 <h5 class="card-title">@guitar.Name</h5>
                 <h4>£@guitar.Price</h4>
-                <p class="card-text">@guitar.Description</p>
+                <p class="card-text red-text">@(guitar.Available ? "Available" : "Out Of Stock")</p>
                 <a asp-page="/Info" asp-route-name=@guitar.Name class="btn btn-primary">More Info</a>
             </div>
         </div>
