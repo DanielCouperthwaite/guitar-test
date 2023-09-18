@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T6b0OV/KImgyypCo3iMmVkRE1L094PrtHcD7DhXVf2k=",
+  "Hash": "sSvXs98uW4f7zjxeI48mz5P4CYRgyKXCbSFMBlU7QSo=",
   "Source": "guitar-shop",
   "BasePath": "_content/guitar-shop",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/obj/Debug/net7.0/scopedcss/projectbundle/guitar-shop.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/about.png",
+      "SourceId": "guitar-shop",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/",
+      "BasePath": "_content/guitar-shop",
+      "RelativePath": "about.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/about.png"
     },
     {
       "Identity": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/css/site.css",
@@ -1069,6 +1086,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/stock.png",
+      "SourceId": "guitar-shop",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/",
+      "BasePath": "_content/guitar-shop",
+      "RelativePath": "stock.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/stock.png"
     }
   ]
 }

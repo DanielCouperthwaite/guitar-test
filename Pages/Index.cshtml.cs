@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 
+
 namespace guitar_shop.Pages;
 
 public class IndexModel : PageModel

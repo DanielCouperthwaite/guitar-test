@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/guitar-shop.bundle.scp.css"
     },
     {
+      "Id": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/about.png",
+      "PackagePath": "staticwebassets/about.png"
+    },
+    {
       "Id": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
@@ -243,6 +247,10 @@
     {
       "Id": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/stock.png",
+      "PackagePath": "staticwebassets/stock.png"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.guitar-shop.props",

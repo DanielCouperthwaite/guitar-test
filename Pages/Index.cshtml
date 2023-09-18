@@ -5,29 +5,36 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">The Guitar Shop</h1>
+    <div>
+        <h1 class="display-4 pt-1">The Guitar Shop</h1>
+    </div>
+    
     <p>Your one stop shop for all guitar needs!</p>
     <div class="container">
-    <div class="row">
-        <div class="col-md-6">
+    <div class="row p-2">
+        <div class="col-md-6 p-3">
+            <div class="p-3 border border-dark rounded bg-warning">
             <a asp-page="/Stock">
                 <div class="text-center">
-                    <img class="w-25" src="https://www.homeoftone.co.uk/cdn/shop/products/IMG_2451_1024x.jpg?v=1646149793">
+                    <img class="w-25" src="stock.png">
                 </div>
-                <div class="text-center">
-                    <a class="btn btn-primary" asp-page="/Stock">Stock</a>
+                <div class="text-center text-warning p-2">
+                    <a class="btn btn-black bg-white" asp-page="/Stock">Stock</a>
                 </div>
             </a>
+            </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 p-3">
+            <div class="p-3 border border-dark rounded bg-warning">
             <a asp-page="/About">
                 <div class="text-center">
-                    <img class="w-25" src="https://www.homeoftone.co.uk/cdn/shop/products/IMG_2451_1024x.jpg?v=1646149793">
+                    <img class="w-25" src="about.png">
                 </div>
-                <div class="text-center">
-                    <a class="btn btn-primary" asp-page="/About">About</a>
+                <div class="text-center text-warning p-2">
+                    <a class="btn btn-black bg-white" asp-page="/About">About</a>
                 </div>
             </a>
+            </div>
         </div>
     </div>
 </div>
