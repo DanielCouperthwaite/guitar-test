@@ -21,7 +21,7 @@
             <div class="card-body">
                 <h5 class="card-title">@guitar.Name</h5>
                 <h4>£@guitar.Price</h4>
-                <p class="card-text red-text">@(guitar.Available ? "Available" : "Out Of Stock")</p>
+                <p class=@(guitar.Available ? "text-success" : "text-danger")> @(guitar.Available ? "Available" : "Out Of Stock")</p>
                 <a asp-page="/Info" asp-route-name=@guitar.Name class="btn btn-primary">More Info</a>
             </div>
         </div>
