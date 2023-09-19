@@ -1,14 +1,56 @@
 ﻿@page
 @model MyApp.Namespace.AboutModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "About page";
 }
 
 <div class="text-center">
     <h1 class="display-4">About</h1>
-    <p>Thanks for visiting!</p>
 </div>
 
-<div class="container row justify-content-center p-5">
+<div class="container">
+    <div class="about-page" style="justify-content: justify; border-radius: 10px; padding: 5px;">
+
+        <p>
+            Welcome to The Guitar Shop, a simple website to highlight stock details available from different locations.
+        </p>
+        <p>
+            This website built in C# with ASP.NET and Bootstrap CSS.
+        </p>
+
+        <h4>Get in Touch</h4>
+        <p>
+            I'm excited to hear from you! If you'd like to discuss my work on Number Blast or have any questions, please don't hesitate to reach out.
+        </p>
+
+        <div class="d-flex">
+            <a class="p-2 m-2" href="https://danielcouperthwaite.tech/" target="_blank">
+                <img src="site.png" style="height: 31px;" />
+            </a>
+            <a class="pt-2 mt-2" href="https://danielcouperthwaite.tech/" target="_blank">danielcouperthwaite.tech</a>
+        </div>
+        <div class="d-flex">
+            <a class="p-2 m-2" href="https://github.com/DanielCouperthwaite" target="_blank">
+                <img src="github.png" />
+            </a>
+            <a class="pt-2 mt-2" href="https://github.com/DanielCouperthwaite" target="_blank">DanielCouperthwaite</a>
+        </div>
+        <div class="d-flex">
+            <a class="p-2 m-2" href="https://www.linkedin.com/in/daniel-couperthwaite-209290139/" target="_blank">
+                <img src="linkedin.png" />
+            </a>
+            <a class="pt-2 mt-2" href="https://www.linkedin.com/in/daniel-couperthwaite-209290139/" target="_blank">Daniel Couperthwaite</a>
+        </div>
+
+        <p>
+            Thanks for visiting. I look forward to connecting with you soon!
+        </p>
+    </div>
+    <div class="container row justify-content-center p-5">
     <a asp-page="/Index" class="btn btn-warning w-25">Back</a>
 </div>
+</div>
+
+
+
+
