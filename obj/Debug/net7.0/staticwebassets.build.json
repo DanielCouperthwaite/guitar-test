@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sSvXs98uW4f7zjxeI48mz5P4CYRgyKXCbSFMBlU7QSo=",
+  "Hash": "uAdUyGO1eSwGnNJTIMsf4+aFrhgtUhkOCWe3+L2Ncrc=",
   "Source": "guitar-shop",
   "BasePath": "_content/guitar-shop",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/github.png",
+      "SourceId": "guitar-shop",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/",
+      "BasePath": "_content/guitar-shop",
+      "RelativePath": "github.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/github.png"
     },
     {
       "Identity": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/js/site.js",
@@ -1086,6 +1103,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/linkedin.png",
+      "SourceId": "guitar-shop",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/",
+      "BasePath": "_content/guitar-shop",
+      "RelativePath": "linkedin.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/linkedin.png"
+    },
+    {
+      "Identity": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/site.png",
+      "SourceId": "guitar-shop",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/",
+      "BasePath": "_content/guitar-shop",
+      "RelativePath": "site.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/site.png"
     },
     {
       "Identity": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/wwwroot/stock.png",
