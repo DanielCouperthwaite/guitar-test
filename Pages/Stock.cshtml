@@ -22,7 +22,7 @@
                 <h5 class="card-title">@guitar.Name</h5>
                 <h4>£@guitar.Price</h4>
                 <p class=@(guitar.Available ? "text-success" : "text-danger")> @(guitar.Available ? "Available" : "Out Of Stock")</p>
-                <a asp-page="/Info" asp-route-name=@guitar.Name class="btn btn-primary">More Info</a>
+                <a asp-page="/Info" asp-route-name=@guitar.Name class="btn btn-warning">More Info</a>
             </div>
         </div>
             </div>
@@ -31,5 +31,5 @@
 </div>
 
 <div class="container row justify-content-center p-5">
-    <a asp-page="/Index" class="btn btn-primary w-25">Back</a>
+    <a asp-page="/Index" class="btn btn-warning w-25">Back</a>
 </div>
