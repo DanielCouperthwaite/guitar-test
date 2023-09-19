@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/guitar-shop.csproj": {}
+    "/home/danielcoup/northcoders/post/guitar-test/guitar-shop/guitar-shop.csproj": {}
   },
   "projects": {
-    "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/guitar-shop.csproj": {
+    "/home/danielcoup/northcoders/post/guitar-test/guitar-shop/guitar-shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/guitar-shop.csproj",
+        "projectUniqueName": "/home/danielcoup/northcoders/post/guitar-test/guitar-shop/guitar-shop.csproj",
         "projectName": "guitar-shop",
-        "projectPath": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/guitar-shop.csproj",
+        "projectPath": "/home/danielcoup/northcoders/post/guitar-test/guitar-shop/guitar-shop.csproj",
         "packagesPath": "/home/danielcoup/.nuget/packages/",
-        "outputPath": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/obj/",
+        "outputPath": "/home/danielcoup/northcoders/post/guitar-test/guitar-shop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/danielcoup/.nuget/NuGet/NuGet.Config"

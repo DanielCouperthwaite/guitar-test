@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = guitar_shop
 build_property.RootNamespace = guitar_shop
-build_property.ProjectDir = /home/danielcoup/northcoders/post/guitar-shop/guitar-shop/
+build_property.ProjectDir = /home/danielcoup/northcoders/post/guitar-test/guitar-shop/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/danielcoup/northcoders/post/guitar-shop/guitar-shop
+build_property.MSBuildProjectDirectory = /home/danielcoup/northcoders/post/guitar-test/guitar-shop
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/About.cshtml]
+[/home/danielcoup/northcoders/post/guitar-test/guitar-shop/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/Error.cshtml]
+[/home/danielcoup/northcoders/post/guitar-test/guitar-shop/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/Index.cshtml]
+[/home/danielcoup/northcoders/post/guitar-test/guitar-shop/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/Info.cshtml]
+[/home/danielcoup/northcoders/post/guitar-test/guitar-shop/Pages/Info.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5mby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/Privacy.cshtml]
+[/home/danielcoup/northcoders/post/guitar-test/guitar-shop/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/home/danielcoup/northcoders/post/guitar-test/guitar-shop/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/Stock.cshtml]
+[/home/danielcoup/northcoders/post/guitar-test/guitar-shop/Pages/Stock.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3RvY2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/_ViewImports.cshtml]
+[/home/danielcoup/northcoders/post/guitar-test/guitar-shop/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/_ViewStart.cshtml]
+[/home/danielcoup/northcoders/post/guitar-test/guitar-shop/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/Pages/Shared/_Layout.cshtml]
+[/home/danielcoup/northcoders/post/guitar-test/guitar-shop/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lwsgijva2q

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fYxp3785ahEjC6DTQDgVA1pRtyZBV4SEWpare2TfuYvl/irvcJ7PbqmtDWpTEzKs3YtzpHmO1Zzg72d/GBrLkQ==",
+  "dgSpecHash": "O6g7EX9IlCk8mGTLVGZuqe6R9NfTLw02feFpHbRLRC1wOfefIBeOZ1npMufQBm2RaC3Ff7/PzQYvlbzi2wndBw==",
   "success": true,
-  "projectFilePath": "/home/danielcoup/northcoders/post/guitar-shop/guitar-shop/guitar-shop.csproj",
+  "projectFilePath": "/home/danielcoup/northcoders/post/guitar-test/guitar-shop/guitar-shop.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
